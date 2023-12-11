@@ -1,0 +1,39 @@
+C:\Users\User\source\repos\sign_up\sign_up\bin\Debug\net6.0-windows\sign_up.exe
+C:\Users\User\source\repos\sign_up\sign_up\bin\Debug\net6.0-windows\sign_up.deps.json
+C:\Users\User\source\repos\sign_up\sign_up\bin\Debug\net6.0-windows\sign_up.runtimeconfig.json
+C:\Users\User\source\repos\sign_up\sign_up\bin\Debug\net6.0-windows\sign_up.dll
+C:\Users\User\source\repos\sign_up\sign_up\bin\Debug\net6.0-windows\sign_up.pdb
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.Form1.resources
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.AssemblyInfo.cs
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.dll
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\refint\sign_up.dll
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.pdb
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.genruntimeconfig.cache
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\ref\sign_up.dll
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.sign_up.resources
+C:\Users\User\source\repos\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.sign_in.resources
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\bin\Debug\net6.0-windows\sign_up.exe
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\bin\Debug\net6.0-windows\sign_up.deps.json
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\bin\Debug\net6.0-windows\sign_up.runtimeconfig.json
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\bin\Debug\net6.0-windows\sign_up.dll
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\bin\Debug\net6.0-windows\sign_up.pdb
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.Form1.resources
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.sign_in.resources
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.sign_up.resources
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.csproj.GenerateResource.cache
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.AssemblyInfo.cs
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.dll
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\refint\sign_up.dll
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.pdb
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.genruntimeconfig.cache
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\ref\sign_up.dll
+C:\Users\User\Desktop\яблочный спас всех спас\c#\sign_up\sign_up\obj\Debug\net6.0-windows\sign_up.Form2.resources

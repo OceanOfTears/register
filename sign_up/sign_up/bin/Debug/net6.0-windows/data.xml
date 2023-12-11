@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <user>
+    <login>123</login>
+    <mail>123</mail>
+    <number>123</number>
+    <password>123</password>
+  </user>
+  <user>
+    <login>12345</login>
+    <mail>12345</mail>
+    <number>12345</number>
+    <password>12345</password>
+  </user>
+</data>
